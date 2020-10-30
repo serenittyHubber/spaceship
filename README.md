@@ -1,2 +1,5 @@
 # spaceship
-Test project
+
+Test project Contest
+
+# Someone else wants to join
