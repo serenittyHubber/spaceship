@@ -1,5 +1,5 @@
 # spaceship
 
-Test project Contest
+Test project
 
-# Someone else wants to join
+THe contest was cancelled
